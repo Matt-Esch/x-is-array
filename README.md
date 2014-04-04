@@ -5,6 +5,8 @@ Simple array
 ## Example
 
 ```js
+var isArray = require("x-is-array")
+
 isArray([])
 // -> true
 
