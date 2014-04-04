@@ -1,6 +1,6 @@
 # x-is-array
 
-Simple array
+Simple array test
 
 ## Example
 
